@@ -1,0 +1,16 @@
+*{
+    background-color: #d5f8f6d5;
+    
+}
+
+td {
+    padding-left: 20px;
+    padding-right: 20px; border-color: rgb(0, 204, 255);border-radius: 10px;
+    }
+th {
+    background-color: rgb(247, 222, 6); font-size: 30pt; color: red; border:;               }
+table { background-color: rgb(171, 230, 215); font-size: 15pt; margin: 0 auto;
+ width: 50%; border-spacing: 20px;border: 4px solid rgb(144, 28, 240); ;}
+
+ input {padding: 5px 5px; margin: 5px 20px; border: 2px solid rgb(245, 238, 231);font-size: 15px; border-radius: 3px;}
+select {padding: 5px 5px; margin: 5px 20px; border: 2px solid rgb(245, 238, 231);font-size: 15px; border-radius: 3px;}
