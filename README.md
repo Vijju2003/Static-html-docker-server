@@ -1,7 +1,9 @@
 # Deploy A Static Website with Docker
 A static website is an HTML pages served by a  web server.  It may include assets such as CSS, Javascripts and images.
 
+## About The Project
 ## This project shows how to deploy a static website login page on a Docker Container.
+### Project Details and steps to accomplish it:
 
 1. Create Static Website login pages  
  *clone my Repo [Static Login Page Files Repo](https://github.com/aduome/Static-html-docker-server)*
@@ -38,3 +40,21 @@ docker ps
 ```
 5. Access Your Application
 - Access your docker host using IP address (or hostname/domain name) on port 80 to view application.
+
+## Contact
+Daniel Agyei - [@my_linkedin](https://www.linkedin.com/in/daniel-owusu-banahene-agyei-3a4172136)
+
+Email: [My Email](daniel.agyeibanahene@gmail.com)
+
+Project Link: [Project Link](https://github.com/aduome/Static-html-docker-server)
+
+## References
+
+## Useful Resources And Links
+
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Docker Cheat sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+* [GitHub Pages](https://pages.github.com)
+* [Gitpod](https://www.gitpod.io/)
+* [Chat GPT](https://chat.openai.com/auth/login)
+* [Nginx-docs](https://docs.nginx.com/)
